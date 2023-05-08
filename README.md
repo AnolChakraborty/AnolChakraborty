@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Anol Chakraborty
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently pursuing Diploma in Computer Engineering
+- 🌱 I've compled diploma in Computer Engineering
+- 🌱 I’m currently pursuing Bachelors in Computer Science & Engineering
 - 💞️ I’m looking forward to collaborate on Opensource projects
 - 📫 How to reach me... DM me on any of my social profile
